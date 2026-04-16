@@ -1,0 +1,16 @@
+# Claude Code local settings
+.claude/*.local.md
+*.local.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Skill source files (ZIPs — not needed in repo)
+*.skill

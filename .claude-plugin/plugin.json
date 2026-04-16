@@ -1,0 +1,13 @@
+{
+  "name": "blueprint",
+  "version": "1.0.0",
+  "description": "The build layer for SSS — technical architecture decisions, product specification, pre-launch verification, and structured failure analysis for a sole founder operating an AI-powered holding company at portfolio scale.",
+  "author": "Sanders Software Solutions",
+  "categories": ["Architecture", "Product", "Launch", "Strategy"],
+  "skills": [
+    "skills/stack-architect",
+    "skills/product-spec",
+    "skills/launch-checklist",
+    "skills/post-mortem"
+  ]
+}
