@@ -52,8 +52,7 @@ stack-architect → product-spec → [build] → launch-checklist → ship → p
 
 ## Installation
 
-```bash
-cc --plugin blueprint@claude-plugins-official
 ```
-
-Or install via the `/plugin` command inside Claude Code.
+/plugin marketplace add MartelGPT10/blueprint
+/plugin install blueprint
+```
